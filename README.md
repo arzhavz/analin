@@ -1,6 +1,6 @@
 # 📊 Analin
 
-**Analin** (Analisis Saham) adalah sebuah proyek yang bertujuan untuk menganalisis saham secara **teknikal** dan **fundamental**.  
+**Analin** (Analisis Indikator) adalah sebuah proyek yang bertujuan untuk menganalisis saham secara **teknikal** dan **fundamental**.  
 Proyek ini masih dalam tahap pengembangan dan belum sepenuhnya akurat, namun terus disempurnakan untuk memberikan hasil analisis yang solid.
 
 ---
@@ -40,13 +40,13 @@ Proyek ini masih dalam tahap pengembangan dan belum sepenuhnya akurat, namun ter
 
 ## 📌 Rencana Pengembangan
 
-- [ ] Penambahan indikator teknikal lanjutan
-- [ ] Penambahan indikator fundamental lanjutan
+- [ ] Penambahan indikator teknikal lanjutan.
+- [ ] Penambahan indikator fundamental lanjutan.
 
 ---
 
 ## 🤝 Kontribusi
 
-Karena ini proyek saya sendiri, kontribusi sangat terbuka bagi yang ingin berkontribusi!
+Karena ini proyek satu orang, kontribusi sangat terbuka bagi yang ingin berkontribusi!
 
 ---
