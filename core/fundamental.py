@@ -32,7 +32,7 @@ def get_fundamental_data(ticker):
         "Market Cap": format_number(info.get("marketCap")),
         "Current Price": format_number(info.get("currentPrice")),
         "Book Value per Share (BVPS)": f"{round(info.get('bookValue', 0), 2)}" if info.get("bookValue") else "N/A",
-        "Price to Book Value (PBV)": f"{round(info.get('priceToBook', 0), 2)}%" if info.get("priceToBook") else "N/A",
+        "Price to Book Value (PBV)": f"{round(info.get('priceToBook', 0), 2)}" if info.get("priceToBook") else "N/A",
         "Trailing P/E": round(info.get("trailingPE", 0), 2) if info.get("trailingPE") else "N/A",
         "Forward P/E": round(info.get("forwardPE", 0), 2) if info.get("forwardPE") else "N/A",
         "EPS (TTM)": round(info.get("trailingEps", 0), 2) if info.get("trailingEps") else "N/A",
