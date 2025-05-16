@@ -18,6 +18,16 @@ Proyek ini masih dalam tahap pengembangan dan belum sepenuhnya akurat, namun ter
 
 ---
 
+## ▶️ Cara Penggunaan
+
+Untuk menjalankan **Analin**, cukup gunakan perintah berikut di terminal:
+
+```bash
+python main.py
+```
+
+---
+
 ## 🖼️ Contoh Output
 
 ### Chart
